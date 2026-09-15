@@ -30,14 +30,7 @@
             alt="follow on Twitter"></a>
 </p>
 
-This is home to [Shields.io][shields.io], a service for concise, consistent,
-and legible badges in SVG and raster format, which can easily be included in
-GitHub readmes or any other web page. The service supports dozens of
-continuous integration services, package registries, distributions, app
-stores, social networks, code coverage services, and code analysis services.
-Every month it serves over 870 million images and is used by some of the
-world's most popular open-source projects, [VS Code][vscode], [Vue.js][vue]
-and [Bootstrap][bootstrap] to name a few.
+This is home to [Shields.io][shields.io], a service for concise, consistent, and legible badges in SVG and raster format, which can easily be included in GitHub readmes or any other web page. The service supports dozens of continuous integration services, package registries, distributions, app stores, social networks, code coverage services, and code analysis services. Every month it serves over 870 million images and is used by some of the world's most popular open-source projects, [VS Code][vscode], [Vue.js][vue] and [Bootstrap][bootstrap] to name a few.
 
 [vscode]: https://github.com/Microsoft/vscode
 [vue]: https://github.com/vuejs/vue
